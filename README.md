@@ -2,20 +2,18 @@
 
 > A Vue.js project
 
-## Build Setup
+项目概述：
 
-``` bash
-# install dependencies
-npm install
+通过使用手环来检测学生在体育课上运动量是否达标，老师在上课的时候只需要携带平板、电脑、手机来实时监控学生的心率以及班级的心率情况。老在上课的时候只需要选择上课的班级，使用的手环工具箱，点击开始上课，那么系统将会开始采集数据，并且生成实时的心率监控记录。
+   1.手环绑定
+   2.蓝牙基站绑定及数据采集
+   3.校区管理
+   4.用户管理
+   5.角色管理
+   6.班级管理
+   7.学生管理
+   8.教师管理
+   9.心率指标设定
+   10.心率实时监控
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+项目部分截图：
